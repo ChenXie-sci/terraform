@@ -1,0 +1,7 @@
+vpc_cidr_block = "172.31.0.0/16"
+subnet_cidr_block = "172.31.48.0/20"
+avail_zone = "us-east-1a"
+env_prefix = "dev"
+myip = "172.24.131.17/32"
+instance_type = "t2.micro"
+public_key_location = "/home/ubuntu/.ssh/id_ed25519.pub"
